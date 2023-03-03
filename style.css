@@ -1,0 +1,13 @@
+
+.element{
+    border-bottom: 3px solid red;
+    font-size: 20px;
+    margin-bottom: 30px;
+    width: 500px;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
